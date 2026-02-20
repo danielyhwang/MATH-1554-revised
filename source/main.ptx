@@ -95,7 +95,9 @@
       <!-- Include worksheets -->
       
       <xi:include href="./worksheets/chapter-1/chapter-1-main.ptx"/>
-
+      <xi:include href="./worksheets/chapter-2/chapter-2-main.ptx"/>
+      <xi:include href="./worksheets/chapter-3/chapter-3-main.ptx"/>
+      <xi:include href="./worksheets/chapter-4/chapter-4-main.ptx"/>
 
     </chapter>
 
